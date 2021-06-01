@@ -1,0 +1,36 @@
+body{
+    font-family: 'Fredoka One', cursive;
+    /* background-image: url(img/background.jpg); */
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    background-color:  rgba(255, 229, 72, 255);
+    padding: 20px;
+    color: red;
+}
+#formcontanier {
+
+    padding: 30px;
+    background-color:rgba(255, 229, 72, 255);
+    display: inline-block;
+    margin: 30px;
+    color: red;
+    border: 20px;
+    
+
+}
+#tablecontanier {
+
+    margin-left: 300px;
+    margin-bottom: 500px;
+    background-color: rgba(255, 229, 72, 255);
+    color:red;
+    border: 50px;
+
+}
+#submit{
+    background-color: red;
+}
+
